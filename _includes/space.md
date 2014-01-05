@@ -1,0 +1,27 @@
+# L’espace de travail
+
+Spacieux et confortable, cet ancien entrepôt a été entièrement restauré en conservant un certain cachet industriel : très grands volumes, beaucoup de lumière, bureaux et mobilier sur mesure fabriqués sur place.
+
+
+<div class="container">
+    <div id="slides">
+      <img src="/images/espace1.jpg" title="L'espace: 1" alt="">
+      <img src="/images/espace2.jpg" title="L'espace: 1" alt="">
+      <img src="/images/espace3.jpg" title="L'espace: 1" alt="">
+      <img src="/images/espace4.jpg" title="L'espace: 1" alt="">
+      <img src="/images/espace5.jpg" title="L'espace: 1" alt="">
+      <img src="/images/espace6.jpg" title="L'espace: 1" alt="">
+    </div>
+</div>
+
+__Les espaces__
+
+* 30 postes de travail en open space spacieux sur 2 étages
+* 6 bureaux privés
+* 2 salles de réunion (jusqu’à 6 personnes)
+* 1 salle polyvalente (jusqu’à 15 personnes)
+* 1 mezzanine
+* 1 cuisine et cafétéria
+* 2 espaces de vie et de détente
+* 1 grande terrasse panoramique sur le toit
+* 2 cours intérieures

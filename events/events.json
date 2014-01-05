@@ -1,0 +1,16 @@
+[{
+	"ident": "1-coworking",
+	"title": "Le coworking de A à Z",
+	"date": "2014-01-01T14:00:00.000Z",
+	"abstract": "<p>Découvrez le coworking!</p>",
+	"description_id": "coworking",
+	"tags": ["coworking"]
+},
+{
+	"ident": "2-osm",
+	"title": "Cartographions Rabat",
+	"date": "2014-01-12T14:00:00.000Z",
+	"abstract": "<p>Apprenez à cartographier votre quartier et à le rendre disponible en ligne sur OpenStreetMap.</p>",
+	"description_id": "osm",
+	"tags": ["osm"]
+}]

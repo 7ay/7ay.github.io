@@ -1,0 +1,22 @@
+name: "7AY Rabat"
+markdown: redcarpet
+pygments: true
+
+title_en: "7AY — Coworking in Rabat, Morocco"
+title_fr: "7AY — Coworking à Rabat, Maroc"
+
+description_en: "7AY ..."
+description_fr: "7AY ..."
+
+keywords_en: "co-working space rabat morocco"
+keywords_fr: "co-working espace rabat maroc"
+
+url: "http://7ay.github.io"
+
+paginate: 3
+pagination_dir: blog
+paginate_path: /blog/page:num
+
+markdownold: rdiscount
+permalink: pretty
+permalink: /blog/:year/:month/:day/:title
