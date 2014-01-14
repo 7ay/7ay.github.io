@@ -1,6 +1,6 @@
 # Accès/Contact
 
-<address><strong>7AY</strong><br />
+<address><strong>7AY Coworking</strong><br />
 n°15 et 16 Zone Industrielle Takaddoume<br />
 Rabat, Maroc</address>
 
