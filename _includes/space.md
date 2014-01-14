@@ -5,12 +5,11 @@ Spacieux et confortable, cet ancien entrepôt a été entièrement restauré en 
 
 <div class="container">
     <div id="slides">
-      <img src="/images/espace1.jpg" title="L'espace: 1" alt="">
-      <img src="/images/espace2.jpg" title="L'espace: 1" alt="">
-      <img src="/images/espace3.jpg" title="L'espace: 1" alt="">
-      <img src="/images/espace4.jpg" title="L'espace: 1" alt="">
-      <img src="/images/espace5.jpg" title="L'espace: 1" alt="">
-      <img src="/images/espace6.jpg" title="L'espace: 1" alt="">
+      <img src="/images/1_imageAccueil.pdf" title="Vue Générale" alt="">
+      <img src="/images/2_espacesBureaux.pdf" title="Espaces Bureaux: 1" alt="">
+      <img src="/images/3_SallesTravail.pdf" title="Salles de travail: 1" alt="">
+      <img src="/images/4_espacesVie.pdf" title="Espaces de Vie" alt="">
+      <img src="/images/5_espaceCafet.pdf" title="L'espace: 1" alt="">
     </div>
 </div>
 
