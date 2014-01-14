@@ -23,4 +23,4 @@ __Les espaces__
 * 1 cuisine et cafétéria
 * 2 espaces de vie et de détente
 * 1 grande terrasse panoramique sur le toit
-* 2 cours intérieures
+* 2 cours 
