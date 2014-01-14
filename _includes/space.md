@@ -1,6 +1,6 @@
 # L’espace de travail
 
-Spacieux et confortable, cet ancien entrepôt a été entièrement restauré en conservant un certain cachet industriel : très grands volumes, beaucoup de lumière, bureaux et mobilier sur mesure fabriqués sur place.
+Spacieux et confortable, cet ancien entrepôt de 520m2 a été entièrement restauré en conservant un certain cachet industriel : très grands volumes, beaucoup de lumière, bureaux et mobilier sur mesure fabriqués sur place.
 
 
 <div class="container">
