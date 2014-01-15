@@ -6,10 +6,10 @@ Spacieux et confortable, cet ancien entrepôt de 520m2 a été entièrement rest
 <div class="container">
     <div id="slides">
       <img src="/images/imageAccueil.jpg" title="Vue Générale" alt="">
-      <img src="/images/2_espacesBureaux.pdf" title="Espaces Bureaux: 1" alt="">
-      <img src="/images/3_SallesTravail.pdf" title="Salles de travail: 1" alt="">
-      <img src="/images/4_espacesVie.pdf" title="Espaces de Vie" alt="">
-      <img src="/images/5_espaceCafet.pdf" title="Espace Cafet" alt="">
+      <img src="/images/espacesBureaux.jpg" title="Espaces Bureaux: 1" alt="">
+      <img src="/images/SallesTravail.jpg" title="Salles de travail: 1" alt="">
+      <img src="/images/espacesVie.jpg" title="Espaces de Vie" alt="">
+      <img src="/images/espaceCafet.jpg" title="Espace Cafet" alt="">
     </div>
 </div>
 
