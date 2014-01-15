@@ -18,12 +18,10 @@ Possibilité d’offre sur mesure en fonction du besoin (alternance temps partie
     </div>
     <div class="paper paper-raise span6">
         <h3 class="offer-name">Membres de passage</h3>
-        <h3>temps complet</h3>
-        <h4>6j/semaine en open space</h4>
-        <h4>2500 dh/mois</h4>
-        <h3>temps partiel</h3>
-        <h4>3 j/semaine en open space</h4>
-        <h4>1600 dh/mois</h4>
+        <h3>Temps complet 6j/semaine</h3>
+        <h4>2500 dh/moi en open space</h4>
+        <h3>Temps partiel 3 j/semaine</h3>
+        <h4>1600 dh/mois en open space</h4>
         <h3>Ticket à la journée, carnet de 5 ou 10 tickets</h3>
     </div>
 </div>
