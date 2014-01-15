@@ -6,13 +6,10 @@ Tarifs indicatifs en HT. Document non contractuel. Offres soumises à condition.
     <div class="paper paper-raise span6">
         <h3 class="offer-name">Membres résidents (avec engagement)</h3>
         <h3>temps complet 6j/semaine </h3>
-        <h4>en open space</h4>
-        <h4>2000 dh /mois</h4>
-        <h4>en bureaux privés</h4>
-        <h4>à partir de 3000 dh /mois. En fonction de disponibilité.</h4>
+        <h4>2000 dh /mois en open space</h4>
+        <h4>à partir de 3000 dh /mois en bureaux privés.En fonction de disponibilité.</h4>
         <h3>temps partiel 3j/semaine</h3>
-        <h4>en open space</h4>
-        <h4>1200 dh /mois</h4>
+        <h4>1200 dh /mois en open space</h4>
 
 Les membres résidents bénéficient de nombreux avantages sur les services et évènements professionnels, collaboratifs et culturels. L’accès aux salles de réunions est inclus de manière illimitée sous réserve de disponibilité.
 
