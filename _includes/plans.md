@@ -1,17 +1,17 @@
 # Les formules d’abonnement
 
-Tarifs indicatifs en HT. Document non contractuel.
+Tarifs indicatifs en HT. Document non contractuel. Offres soumises à condition.
 
 <div class="offers row-fluid">
     <div class="paper paper-raise span6">
         <h3 class="offer-name">Membres résidents (avec engagement)</h3>
         <h3>temps complet 6j/semaine </h3>
-        <h4>en bureaux privés</h4>
-        <h4>à partir de 3000 dh /mois. En fonction de disponibilité.</h4>
         <h4>en open space</h4>
         <h4>2000 dh /mois</h4>
+        <h4>en bureaux privés</h4>
+        <h4>à partir de 3000 dh /mois. En fonction de disponibilité.</h4>
         <h3>temps partiel 3j/semaine</h3>
-        <h4>3/j semaine en open space</h4>
+        <h4>en open space</h4>
         <h4>1200 dh /mois</h4>
 
 Les membres résidents bénéficient de nombreux avantages sur les services et évènements professionnels, collaboratifs et culturels. L’accès aux salles de réunions est inclus de manière illimitée sous réserve de disponibilité.
@@ -27,6 +27,7 @@ Possibilité d’offre sur mesure en fonction du besoin (alternance temps partie
         <h3>temps partiel</h3>
         <h4>3 j/semaine en open space</h4>
         <h4>1600 dh/mois</h4>
+        <h3>Ticket à la journée, carnet de 5 ou 10 tickets</h3>
     </div>
 </div>
 
