@@ -5,7 +5,7 @@ Spacieux et confortable, cet ancien entrepôt de 520m2 a été entièrement rest
 
 <div class="container">
     <div id="slides">
-      <img src="/images/1_imageAccueil.pdf" title="Vue Générale" alt="">
+      <img src="/images/imageAccueil.jpg" title="Vue Générale" alt="">
       <img src="/images/2_espacesBureaux.pdf" title="Espaces Bureaux: 1" alt="">
       <img src="/images/3_SallesTravail.pdf" title="Salles de travail: 1" alt="">
       <img src="/images/4_espacesVie.pdf" title="Espaces de Vie" alt="">
