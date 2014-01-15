@@ -52,3 +52,6 @@ __Services disponibles__
 * Vestiaires incluant douches
 * Casiers et caissons de rangement avec clés
 * Chauffage et climatisation
+
+A noter que 7AY Coworking ne fournit aucune domiciliation aux sociétés.
+
