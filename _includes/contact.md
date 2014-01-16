@@ -10,12 +10,6 @@ hi@7ay.ma </contact>
 
 <img src="/images/Acces7AY_Coworking_Rabat.png" title="Plan d'accès 7AY Coworking Rabat" alt="">
 
-<div class="row-fluid">
-    <div class="span12 imagecontainer">
-        <p><a title="Voir la carte sur OpenStreetMap" href="http://www.openstreetmap.org/?mlat=33.98650&mlon=-6.82474#map=17/33.98650/-6.82474"><img src="/images/osm_map.png" class="map" /></a></p>
-    </div>
-</div>
-
 ## Horaires
 
 <table class="table table-striped">
