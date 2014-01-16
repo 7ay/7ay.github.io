@@ -18,7 +18,7 @@ __Les espaces__
 
 * 30 postes de travail en open space spacieux sur 2 étages
 * 6 bureaux privés
-* 2 salles de réunion (jusqu’à 6 personnes)
+* 2 salles de réunion (jusqu’à 4 personnes)
 * 1 salle polyvalente (jusqu’à 15 personnes)
 * 1 mezzanine
 * 1 cuisine et cafétéria
