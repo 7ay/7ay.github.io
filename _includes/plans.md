@@ -28,7 +28,7 @@ Possibilité d’offre sur mesure en fonction du besoin (alternance temps partie
 
 Autres tarifs à demander sur place
 
-__ESPACES REUNIONS__: salles de réunion 6 personnes à la journée ou demi-journée, salle polyvalente 15 personnes à la journée ou la demi-journée, équipement de projection etc…
+__ESPACES REUNIONS__: salles de réunion 4 personnes à la journée ou demi-journée, salle polyvalente 15 personnes à la journée ou la demi-journée, équipement de projection etc…
 
 __ESPACES EVENEMENTIELS__ : 260 m2 à moduler, terrasse sur le toit de 260m2, 2 cours de 50m2 chacune.
 
