@@ -22,7 +22,7 @@ Possibilité d’offre sur mesure en fonction du besoin (alternance temps partie
         <h4>2300 dh/mois en open space</h4>
         <h3>Temps partiel 3 j/semaine</h3>
         <h4>1500 dh/mois en open space</h4>
-        <h3>Ticket à la journée, carnet de 5 ou 10 tickets</h3>
+        <h3>Accès à la journée, carnet de 5 ou 10 accès</h3>
     </div>
 </div>
 
