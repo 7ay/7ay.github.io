@@ -4,6 +4,10 @@
 n°15 et 16 Zone Industrielle Takaddoume<br />
 Rabat, Maroc</address>
 
+<contact><strong>Contactez-nous</strong><br />
+(212) 537-65-06-31 / (212) 610-98-86-92 / (212) 661-47-00-14 <br />
+hi@7ay.ma </contact>
+
 <div class="row-fluid">
     <div class="span12 imagecontainer">
         <p><a title="Voir la carte sur OpenStreetMap" href="http://www.openstreetmap.org/?mlat=33.98650&mlon=-6.82474#map=17/33.98650/-6.82474"><img src="/images/osm_map.png" class="map" /></a></p>
