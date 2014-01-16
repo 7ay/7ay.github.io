@@ -9,7 +9,7 @@ Tarifs indicatifs en HT. Document non contractuel. Offres soumises à condition.
         <h4>2000 dh /mois en open space.</h4>
         <h4>A partir de 3000 dh /mois en bureaux privés. En fonction de disponibilité.</h4>
         <h3>Temps partiel 3j/semaine</h3>
-        <h4>1200 dh /mois en open space</h4>
+        <h4>1300 dh /mois en open space</h4>
 
 Les membres résidents bénéficient de nombreux avantages sur les services et évènements professionnels, collaboratifs et culturels. L’accès aux salles de réunions est inclus de manière illimitée sous réserve de disponibilité.
 
@@ -19,9 +19,9 @@ Possibilité d’offre sur mesure en fonction du besoin (alternance temps partie
     <div class="paper paper-raise span6">
         <h3 class="offer-name">Membres de passage</h3>
         <h3>Temps complet 6j/semaine</h3>
-        <h4>2500 dh/mois en open space</h4>
+        <h4>2300 dh/mois en open space</h4>
         <h3>Temps partiel 3 j/semaine</h3>
-        <h4>1600 dh/mois en open space</h4>
+        <h4>1500 dh/mois en open space</h4>
         <h3>Ticket à la journée, carnet de 5 ou 10 tickets</h3>
     </div>
 </div>
