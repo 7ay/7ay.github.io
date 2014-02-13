@@ -16,6 +16,8 @@ Sur la rue qui passe devant Carrefour Market/Label Vie, continuer tout droit jus
 (212) 537-65-06-31 / (212) 610-98-86-92 / (212) 661-47-00-14 <br />
 hi@7ay.ma </contact>
 
+<iframe src="https://mapsengine.google.com/map/embed?mid=zTdcHagTbRo0.kYP1f1UfZEtU" width="640" height="480"></iframe>
+
 <img src="/images/Acces7AY_Coworking_Rabat.png" title="Plan d'accès 7AY Coworking Rabat" alt="">
 
 ## Horaires
