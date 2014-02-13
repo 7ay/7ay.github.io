@@ -4,7 +4,7 @@
 n°15 et 16 Zone Industrielle Takaddoume<br />
 Rabat, Maroc</address>
 
-INDICATIONS:
+INDICATIONS />
 -Par la rocade de Rabat:
 En venant de Casablanca, prendre la rocade en direction de Fes, tourner à gauche au croisement qui indique "Zone Industrielle. Youssoufia" (c'est au niveau d'un feu rouge sur la rocade).
 Ensuite continuer tout droit sur la route qui remonte ("Tariq el Oulja") jusqu'à la prochaine rue à droite (tourner au niveau d'Atlantic Confection). Et ensuite, c'est encore la 1ère à droite. C'est là, au n°15-16!
