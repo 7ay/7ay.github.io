@@ -18,7 +18,7 @@ hi@7ay.ma </contact>
 
 <iframe src="https://mapsengine.google.com/map/embed?mid=zTdcHagTbRo0.kYP1f1UfZEtU" width="640" height="480"></iframe>
 
-## Horaires
+## Horaires 
 
 <table class="table table-striped">
     <tr><th colspan="2">Horaire général</th></tr>
