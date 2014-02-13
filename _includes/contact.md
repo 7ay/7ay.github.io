@@ -4,7 +4,7 @@
 n°15 et 16 Zone Industrielle Takaddoume<br />
 Rabat, Maroc</address>
 
-COORDONNES GPS: 33°59'30.6"N 6°48'15.8"W (33.991836 - 6.804382)<br /> 
+COORDONNEES GPS: 33°59'30.6"N 6°48'15.8"W (33.991836 - 6.804382)<br /> 
 
 INDICATIONS GPS à la marocaine:<br />
 -Par la rocade de Rabat:
