@@ -1,7 +1,7 @@
 # Accès/Contact
 
 <address><strong>7AY Coworking</strong><br />
-n°15 et 16 Zone Industrielle Takaddoume<br />
+n°15 et 16 Zone Industrielle Takadoum<br />
 Rabat, Maroc</address>
 
 COORDONNEES GPS: 33°59'30.6"N 6°48'15.8"W (33.991836 - 6.804382)<br /> 
