@@ -8,4 +8,4 @@ En métissant les centres d’intérêts, les expériences professionnelles et l
 
 Cette émulation quotidienne dans un environnement évitant le syndrome « bureau » est une source de motivation et d’encouragement pour démarrer son activité et poursuivre ses projets.
 
-7AY Coworking est un espace d'échange ; vous êtes invité à y présenter vos projets!
+7AY Coworking est un espace d'échange ; vous êtes invités à y présenter vos projets!
