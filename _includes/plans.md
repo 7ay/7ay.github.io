@@ -38,16 +38,18 @@ __Services disponibles__
 * Tables de 4 personnes avec séparation
 * Salles de réunion et polyvalente
 * Internet
-* Photocopieur – imprimantes – scanners – fax
+* Photocopieur – imprimantes – scanners 
 * Vidéoprojecteur et écran de projection
 * Tableaux blancs
-* Téléphones fixes sur demande
-* Ecran TV et chaînes satellite
+* Téléphones fixes et fax sur demande
+* Ecran TV et chaînes satellites
 * Cuisine équipée
 * Cafétéria pour les boissons chaudes
 * Vestiaires incluant douches
 * Casiers et caissons de rangement avec clés
 * Chauffage et climatisation
+* Charges/électricité
+* Entretien/Ménage 
 
 __A noter que 7AY Coworking ne fournit aucune domiciliation aux sociétés.__
 
