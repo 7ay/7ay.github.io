@@ -10,4 +10,4 @@ Cette émulation quotidienne dans un environnement évitant le syndrome « burea
 
 7AY Coworking est un espace d'échange ; vous êtes invités à y présenter vos projets!
 
-7AY se veut aussi être un __espace d'expression artistique et culturel__ en affectant ses murs aux artistes qui veulent bien y partager leurs oeuvres en exposition, performance, projection ou autres modes d'expression.
+7AY se veut aussi être un __espace d'expression artistique et culturel__ en affectant ses murs aux artistes qui veulent bien y présenter leurs oeuvres en exposition, performance, projection ou autres modes d'expression.
