@@ -4,7 +4,7 @@ Tarifs indicatifs en HT. Document non contractuel. Offres soumises à condition.
 
 <div class="offers row-fluid">
     <div class="paper paper-raise span6">
-        <h3 class="offer-name">Membres résidents (avec engagement)</h3>
+        <h3 class="offer-name">Membres résidents</h3>
         <h3>Temps complet 6j/semaine </h3>
         <h4>2000 dh /mois en open space.</h4>
         <h4>A partir de 3000 dh /mois en bureaux privés. En fonction de disponibilité.</h4>
