@@ -13,7 +13,7 @@ Tarifs indicatifs en HT. Document non contractuel. Offres soumises à condition.
 
 Les membres résidents bénéficient de nombreux avantages sur les services et évènements professionnels, collaboratifs et culturels. L’accès aux salles de réunions est inclus de manière illimitée sous réserve de disponibilité.
 
-Possibilité d’offre sur mesure en fonction du besoin (alternance temps partiel dans un bureau privé, 2 personnes par bureau privé, combi bureau privé/open space etc…)
+Possibilité d’offre sur mesure en fonction du besoin.
 
     </div>
     <div class="paper paper-raise span6">
@@ -28,9 +28,11 @@ Possibilité d’offre sur mesure en fonction du besoin (alternance temps partie
 
 Autres tarifs à demander sur place
 
-__ESPACES REUNIONS__: salles de réunion 4 personnes à la journée ou demi-journée, salle polyvalente 15 personnes à la journée ou la demi-journée, équipement de projection etc…
+__ESPACES REUNIONS__: salles de réunion 4 personnes à la journée ou demi-journée, salle polyvalente 15 personnes à la journée ou la demi-journée, accès aux salons, équipement de projection etc…
 
-__ESPACES EVENEMENTIELS__ : 260 m2 à moduler, terrasse sur le toit de 260m2, 2 cours de 50m2 chacune.
+__ESPACES EVENEMENTIELS__ : L’aménagement des espaces intérieurs et extérieurs (terrasse panoramique et cours) permet la tenue d’événements de tous formats, de 10 jusqu’à 150 personnes, avec possibilités de pause-café, brunchs, petit déjeuners, déjeuners, dîners, réservations en soirée privée…
+
+Faire ses réunions, formations, team building et autres évènements à 7AY c’est donner rendez-vous à sa communauté dans un lieu doté d’une personnalité professionnelle tout en étant créative et confortable. 
 
 __Services disponibles__
 
@@ -41,7 +43,7 @@ __Services disponibles__
 * Photocopieur – imprimantes – scanners 
 * Vidéoprojecteur et écran de projection
 * Tableaux blancs
-* Téléphones fixes et fax sur demande
+* Téléphones fixes et fax 
 * Ecran TV et chaînes satellites
 * Cuisine équipée
 * Cafétéria pour les boissons chaudes
