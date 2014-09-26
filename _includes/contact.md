@@ -26,7 +26,7 @@ hi@7ay.ma </contact>
     <tr><th colspan="2">Horaire général</th></tr>
     <tr><td>Du lundi au vendredi</td><td>de 8h à 19h</td></tr>
     <tr><td>Le samedi</td><td>de 8h à 15h</td></tr>
-    <tr><td colspan="2">Fermé les dimanche & jours fériés officiels, sauf pour les évnènements spéciaux</td></tr>
+    <tr><td colspan="2">Fermé les dimanche & jours fériés officiels, sauf pour les événements spéciaux</td></tr>
     <tr><th colspan="2">Horaire de l'admin</th><tr>
     <tr><td>Du lundi au vendredi</td><td>de 9h-12h et 14h-17h</td></tr>
 </table>
