@@ -16,7 +16,7 @@ Spacieux et confortable, cet ancien entrepôt de 520m2 a été entièrement rest
       <img src="/images/PhotosSiteWeb2015/Terrasse.jpg" title="Espace terrasse 7AY Coworking Rabat" alt="">
       <img src="/images/PhotosSiteWeb2015/Salon.jpg" title="Espace salon 7AY Coworking Rabat" alt="">
       <img src="/images/ImageEVENTS.jpg" title="Espaces Events" alt="">
-      <img src="/images/PhotosSiteWeb2015/Upstairs-Terrasse1.jpg" title="Espaces Events" alt="">
+      <img src="/images/PhotosSiteWeb2015/Toit.jpg" title="Espaces Events" alt="">
     </div>
 </div>
 
