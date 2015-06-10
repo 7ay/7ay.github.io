@@ -5,12 +5,12 @@ Spacieux et confortable, cet ancien entrepôt de 520m2 a été entièrement rest
 
 <div class="container">
     <div id="slides">
-      <img src="images/PhotosSiteWeb2015/BureauPrive.jpg" title="Vue Générale 7AY Coworking Rabat" alt="">
-      <img src="/images/espacesBureaux.jpg" title="Espaces Bureaux 7AY Coworking Rabat" alt="">
+      <img src="/images/PhotosSiteWeb2015/Openspace.jpg" title="Vue Générale 7AY Coworking Rabat" alt="">
+      <img src="/images/PhotosSiteWeb2015/SalleDereunion.jpg" title="Espaces Bureaux 7AY Coworking Rabat" alt="">
       <img src="/images/ImageEVENTS.jpg" title="Espaces Events" alt="">
-      <img src="/images/espacesVie.jpg" title="Espaces de Vie" alt="">
-      <img src="/images/espaceCafet.jpg" title="Espace Cafet" alt="">
-      <img src="/images/VueTerrasse.JPG" title="Vue Oued Bou Reggreg 7AY Coworking Rabat" alt="">
+      <img src="/images/PhotosSiteWeb2015/Michelange.jpg" title="Open space" alt="">
+      <img src="/images/PhotosSiteWeb2015/Entree.jpg" title="Entrée 7AY Coworking Rabat" alt="">
+      <img src="/images/PhotosSiteWeb2015/OpenspaceBallon.jpg" title="Espaces réunions 7AY Coworking Rabat" alt="">
     </div>
 </div>
 
