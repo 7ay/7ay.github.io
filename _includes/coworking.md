@@ -1,13 +1,9 @@
 # Le coworking
 
-__7AY Coworking__ est un espace de bureaux partagés, nouveau mode de travail appelé _Coworking_.
+__7AY Coworking__ est un espace de bureaux partagés situé en plein cœur de la zone industrielle de Takadoum à Rabat à 5min de l'avenue Mohammed VI. 
+Venir à 7AY, c'est expérimenter un nouveau mode de travail parfaitement adapté pour la nouvelle génération d’entrepreneurs nomades et connectés  qui envisagent la création de valeur socio-économique en adéquation avec des standards sociétaux très exigeants: responsabilité écologique, partage et collaboration, circularité de l’information, bien être et savoir vivre.
+7AY coworking c'est 520m2 d'espace de vie et de travail sur 2 niveaux, avec 50 postes de travail (capacité de 75 personnes), 6 bureaux privés, 3 salles de réunions, une cuisine américaine toute équipée, 3 salons, 2 cours, 1 terrasse panoramique donnant sur la rivière et la vallée Boureggreg, 1 tente berbère de 100m2 sur le toit cosy et doté du wifi, 1 jardin potager en permaculture... et surtout, une __communauté__ de professionnel(le)s solidaires partageant leurs expériences, compétences, connaissances, réseaux...
 
-Dédié à l’entreprenariat et à l’initiative individuelle créative, 7AY est un espace où se regroupent les membres d’une communauté professionnelle active, qui s’interroge, cherche des solutions et partage ses découvertes avec ses co-workers.
-
-En métissant les centres d’intérêts, les cultures professionnelles et les formations, 7AY Coworking fait rencontrer des idées et des gens de nature différente tout en permettant à chacun de se concentrer sur son propre travail.
-
-Cette émulation quotidienne dans un environnement évitant le syndrome « bureau » est une source de motivation et d’encouragement pour démarrer son activité et poursuivre ses projets.
-
-7AY Coworking est un espace d'échange ; vous êtes invités à y présenter vos projets!
+→ 30 entreprises coworkeuses résidentes (au moins 1 an) et près de 250 entrepreneurs de passages (au moins 1 mois) sont passés par 7AY depuis janvier 2014.
 
 7AY se veut aussi être un __espace d'expression artistique et culturel__ en affectant ses murs aux artistes qui veulent bien y présenter leurs oeuvres en exposition, performance, projection ou autres modes d'expression.
