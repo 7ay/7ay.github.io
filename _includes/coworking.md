@@ -7,3 +7,7 @@ Venir à 7AY, c'est expérimenter un nouveau mode de travail parfaitement adapt�
 30 entreprises coworkeuses résidentes (au moins 1 an) et près de 250 entrepreneurs de passages (au moins 1 mois) sont passés par 7AY depuis janvier 2014.
 
 7AY se veut aussi être un __espace d'expression artistique et culturel__ en affectant ses murs aux artistes qui veulent bien y présenter leurs oeuvres en exposition, performance, projection ou autres modes d'expression.
+
+# Le coliving
+
+__7AY coliving__ est un nouveau service proposé par 7AY pour permettre aux entrepreneurs nomades de bénéficier de plus de 30 logements entièrement meublés, équipés, situés au centre-ville, et connectés au coworking pour travailler en toute liberté et confort. De nombreux services sont proposés.
