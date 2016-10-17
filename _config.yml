@@ -1,6 +1,10 @@
 name: "7AY Rabat"
-markdown: redcarpet
-pygments: true
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
 
 title_en: "7AY — Coworking in Rabat, Morocco"
 title_fr: "7AY — Coworking à Rabat, Maroc"
@@ -20,3 +24,5 @@ paginate_path: /blog/page:num
 markdownold: rdiscount
 permalink: pretty
 permalink: /blog/:year/:month/:day/:title
+
+gems: [jekyll-paginate]

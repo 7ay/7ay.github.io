@@ -2,22 +2,24 @@
 layout: default
 lang: fr
 ---
-<section id="co-working">
+
+<section id="co-working"></section>
+
 {% include coworking.md %}
-</section>
 
-<section id="space">
+<section id="space"></section>
+
 {% include space.md %}
-</section>
 
-<section id="plans">
+
+<section id="plans"></section>
+
 {% include plans.md %}
-</section>
 
-<section id="contact">
+<section id="contact"></section>
+
 {% include contact.md %}
-</section>
 
-<section id="events">
+<section id="events"></section>
+
 {% include events.md %}
-</section>
