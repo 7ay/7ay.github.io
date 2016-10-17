@@ -8,6 +8,7 @@ Venir à 7AY, c'est expérimenter un nouveau mode de travail parfaitement adapt�
 
 7AY se veut aussi être un __espace d'expression artistique et culturel__ en affectant ses murs aux artistes qui veulent bien y présenter leurs oeuvres en exposition, performance, projection ou autres modes d'expression.
 
+
 # Le coliving
 
 __7AY coliving__ est un nouveau service proposé par 7AY pour permettre aux entrepreneurs nomades de bénéficier de plus de 30 logements entièrement meublés, équipés, situés au centre-ville, et connectés au coworking pour travailler en toute liberté et confort. De nombreux services sont proposés.
