@@ -27,10 +27,9 @@ LES VISITES SONT SUR RENDEZ-VOUS. (212) 537-65-06-31 / (212) 610-98-86-92 / (212
 
 Horaire général | 
 --------------- | -------------
-Du lundi au vendredi | de 8h à 19h
-Le samedi | de 8h à 15h
-
-Fermé les dimanche & jours fériés officiels, sauf pour les événements spéciaux
+Du lundi au vendredi | 24h/24
+Le samedi et dimanche | de 9h à 16h
+Fermé les jours fériés officiels, sauf pour les événements spéciaux
 
 Horaire de l'admin | 
 --------------- | -------------
@@ -42,4 +41,5 @@ __Réseaux Sociaux__
 
 * Twitter: __[@7ay\_](https://twitter.com/7ay_)__
 * Facebook: __[7AYcoworking](https://www.facebook.com/7AYcoworking)__
+* Instagram: __[@7ay.ma](https://www.instagram.com/7ay.ma/)__
 
