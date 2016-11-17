@@ -29,7 +29,7 @@ __Les espaces__
 * 1 espace conférence aménageable pour 80 personnes. __Espace Swing__
 * 1 mezzanine
 * 1 cuisine et cafétéria
-* 2 espaces de vie et de détente __Espace Lounge__
+* 2 espaces de vie et de détente __Espace Red__
 * 1 grande terrasse panoramique 
 * 1 tente berbère de 100m2. __Espace Guelmim__
 * 1 jardin potager en permaculture
