@@ -13,5 +13,5 @@ Venir à 7AY, c'est expérimenter un nouveau mode de travail parfaitement adapt�
 
 # Le coliving
 
-__7AY coliving__ est un service proposé par 7AY pour permettre aux entrepreneurs nomades de bénéficier de logements entièrement meublés, équipés, situés au centre-ville, et connectés au coworking pour travailler en toute liberté et confort. De nombreux services sont proposés avec nos partenaires: expériences sportives, découvertes de la ville de Rabat et les autres régions du Maroc, programmation d'évènements professionnels, cultureles et artistiques, en toute immersion...
+__7AY Coliving__ est un service proposé par 7AY pour permettre aux entrepreneurs nomades de bénéficier de logements entièrement meublés, équipés, situés au centre-ville, et connectés au coworking pour travailler en toute liberté et confort. De nombreux services sont proposés: expériences sportives, découvertes de la ville de Rabat et les autres régions du Maroc, programmation d'évènements professionnels, culturels et artistiques, en toute immersion...
 
