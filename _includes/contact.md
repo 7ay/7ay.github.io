@@ -25,7 +25,7 @@ LES VISITES SONT SUR RENDEZ-VOUS. (212) 537-65-06-31 / (212) 610-98-86-92 / (212
 
 ## Horaires
 
-Horaire général |
+Horaire général | 
 --------------- | -------------
 Du lundi au vendredi | 24h/24
 Le samedi et dimanche | de 9h à 16h
