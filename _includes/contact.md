@@ -34,7 +34,7 @@ Fermé les jours fériés officiels, sauf pour les événements spéciaux
 Horaire de l'admin | 
 --------------- | -------------
 Les visites | sur rendez-vous
-Du lundi au vendredi | de 9h-12h et 14h-17h
+Du lundi au vendredi | de 9h-12h et 14h-16h
 
 
 __Réseaux Sociaux__
