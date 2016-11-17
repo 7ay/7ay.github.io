@@ -22,12 +22,15 @@ Spacieux et confortable, cet ancien entrepôt de 520m2 a été entièrement rest
 
 __Les espaces__
 
-* 30 postes de travail en open space spacieux sur 2 étages
+* 50 postes de travail en open space spacieux sur 2 étages
 * 6 bureaux privés
-* 2 salles de réunion (jusqu’à 4 personnes)
-* 1 salle polyvalente (jusqu’à 15 personnes)
+* 2 salles de réunion (jusqu’à 5 personnes). __Espace Chellah et Oudaya__
+* 1 salle polyvalente (jusqu’à 25 personnes). __Espace Boureggreg__
+* 1 espace conférence aménageable pour 80 personnes. __Espace Swing__
 * 1 mezzanine
 * 1 cuisine et cafétéria
-* 2 espaces de vie et de détente
-* 1 grande terrasse panoramique sur le toit
+* 2 espaces de vie et de détente __Espace Lounge__
+* 1 grande terrasse panoramique 
+* 1 tente berbère de 100m2. __Espace Guelmim__
+* 1 jardin potager en permaculture
 * 2 cours 
