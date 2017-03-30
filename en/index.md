@@ -1,24 +1,23 @@
 ---
 layout: default
-lang: fr
+lang: en
 ---
 
 <section id="co-working"></section>
 
-{% include coworking_fr.md %}
+{% include coworking_en.md %}
 
 <section id="space"></section>
 
-{% include space_fr.md %}
-
+{% include space_en.md %}
 
 <section id="plans"></section>
 
-{% include plans_fr.md %}
+{% include plans_en.md %}
 
 <section id="contact"></section>
 
-{% include contact_fr.md %}
+{% include contact_en.md %}
 
 <section id="events"></section>
 
