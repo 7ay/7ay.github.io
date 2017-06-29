@@ -21,7 +21,7 @@ LES VISITES SONT SUR RENDEZ-VOUS. (212) 537-65-06-31 / (212) 610-98-86-92 / (212
 
 [hi@7ay.ma](mailto:hi@7ay.ma)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3308.07119178353!2d-6.809349624489923!3d33.99070510397705!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda76b173fb6425b%3A0x17d51eb797c2fbd1!2s7AY+Coworking!5e0!3m2!1sfr!2s!4v1498735027915" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>" width="640" height="480"></iframe>
+<iframe src="https://mapsengine.google.com/map/embed?mid=zTdcHagTbRo0.kYP1f1UfZEtU"></iframe>
 
 ## Horaires
 
