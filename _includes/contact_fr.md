@@ -21,7 +21,7 @@ LES VISITES SONT SUR RENDEZ-VOUS. (212) 537-65-06-31 / (212) 610-98-86-92 / (212
 
 [hi@7ay.ma](mailto:hi@7ay.ma)
 
-<iframe src="https://mapsengine.google.com/map/embed?mid=zTdcHagTbRo0.kYP1f1UfZEtU"></iframe>
+<iframe src=https://mapsengine.google.com/map/embed?mid=zTdcHagTbRo0.kYP1f1UfZEtU></iframe>
 
 ## Horaires
 
