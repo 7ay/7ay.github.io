@@ -25,7 +25,7 @@ VISITS ARE ON APPOINTMENT. (212) 537-65-06-31 / (212) 610-98-86-92 / (212) 661-4
 General | 
 --------------- | -------------
 Monday to Friday | 24h/24
-Saturday and Sunday | 9h to 16h
+Saturday 9h to 21h | Sunday | closed
 Closed on official holidays expect for special events
 
 Admin hours | 
