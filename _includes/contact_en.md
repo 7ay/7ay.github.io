@@ -16,7 +16,7 @@ On the street that goes in front of Carrefour Market / Label Vie (rue Raïs Cher
 
 ### Contact Us
 
-VISITS ARE ON APPOINTMENT. (212) 537-65-06-31 /(212) 661-47-00-14
+VISITS ARE ON APPOINTMENT. (212) 537-65-06-31 /(212) 661-47-00-14 / (212) 611-40 54 11
 
 {% include contact_map.md %}
 
