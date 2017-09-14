@@ -28,7 +28,7 @@ LES VISITES SONT SUR RENDEZ-VOUS. (212) 537-65-06-31 / (212) 610-98-86-92 / (212
 Horaire général | 
 --------------- | -------------
 Du lundi au vendredi | 24h/24
-Le samedi et dimanche | de 9h à 16h
+Le samedi 9h à 21h | Fermé le dimanche.
 Fermé les jours fériés officiels, sauf pour les événements spéciaux
 
 Horaire de l'admin | 
