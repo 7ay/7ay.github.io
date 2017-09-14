@@ -17,7 +17,7 @@ Sur la rue qui passe devant Carrefour Market/Label Vie (rue Raïs Cherkaoui), co
 
 ### Contactez-nous
 
-LES VISITES SONT SUR RENDEZ-VOUS. (212) 537-65-06-31 /(212) 661-47-00-14 
+LES VISITES SONT SUR RENDEZ-VOUS. (212) 537-65-06-31 /(212) 661-47-00-14 / (212) 611-40 54 11
 
 [hi@7ay.ma](mailto:hi@7ay.ma)
 
