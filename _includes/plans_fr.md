@@ -4,7 +4,7 @@ Tarifs indicatifs en HT. Document non contractuel. Offres soumises à condition.
 
 <div class="offers row-fluid">
     <div class="paper paper-raise span6">
-        <h3 class="offer-name">Membres résidents (avec engagement)</h3>
+        <h3 class="offer-name">Membres </h3>
         <h3>Temps complet 6j/semaine </h3>
         <h4>2000 dh /mois en open space.</h4>
         <h4>A partir de 3000 dh /mois en bureaux privés. En fonction de disponibilité.</h4>
@@ -15,9 +15,6 @@ Possibilité d’offre sur mesure en fonction du besoin.
 
     </div>
     <div class="paper paper-raise span6">
-        <h3 class="offer-name">Membres de passage</h3>
-        <h3>Temps complet 6j/semaine</h3>
-        <h4>2300 dh/mois en open space</h4>
         <h3>Accès à la journée 120dh, carnet de 5 accès 550dh ou 10 accès 1000dh</h3>
     </div>
 </div>
