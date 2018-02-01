@@ -18,7 +18,7 @@ Possibilité d’offre sur mesure en fonction du besoin.
         <h3 class="offer-name">Membres de passage</h3>
         <h3>Temps complet 6j/semaine</h3>
         <h4>2300 dh/mois en open space</h4>
-        <h3>Accès à la journée, carnet de 5 ou 10 accès</h3>
+        <h3>Accès à la journée 120dh, carnet de 5 accès 550dh ou 10 accès 1000dh</h3>
     </div>
 </div>
 
