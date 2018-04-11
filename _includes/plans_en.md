@@ -6,7 +6,7 @@ Tarifs indicatifs en HT. Document non contractuel. Offres soumises à condition.
     <div class="paper paper-raise span6">
         <h3 class="offer-name">Members </h3>
         <h3> Full Time 6d/week </h3>
-        <h4>2000 dh /month in open space.</h4>
+        <h4>2000 dh /month in open space. Discount for 2018: 1500dh/m </h4>
         <h4> from 3000 dh /month in private office. Depending on avalaibility.</h4>
 
 Les membres résidents bénéficient de nombreux avantages sur les services et évènements professionnels, collaboratifs et culturels. L’accès aux salles de réunions est inclus de manière illimitée sous réserve de disponibilité.
