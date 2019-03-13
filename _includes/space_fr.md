@@ -1,4 +1,4 @@
-# L’espace de travail coworking open space et bureaux privés
+# L’espace de travail: coworking open space et bureaux privés
 
 Spacieux et confortable, cet ancien entrepôt a été entièrement restauré en conservant un certain cachet industriel : très grands volumes, beaucoup de lumière, bureaux et mobiliers sur mesure conçus et fabriqués sur place.
 
