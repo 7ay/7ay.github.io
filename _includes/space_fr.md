@@ -1,6 +1,6 @@
-# L’espace de travail
+# L’espace de travail coworking open space et bureaux privés
 
-Spacieux et confortable, cet ancien entrepôt de 520m2 a été entièrement restauré en conservant un certain cachet industriel : très grands volumes, beaucoup de lumière, bureaux et mobiliers sur mesure conçus et fabriqués sur place.
+Spacieux et confortable, cet ancien entrepôt a été entièrement restauré en conservant un certain cachet industriel : très grands volumes, beaucoup de lumière, bureaux et mobiliers sur mesure conçus et fabriqués sur place.
 
 {% include space_images.html %}
 
