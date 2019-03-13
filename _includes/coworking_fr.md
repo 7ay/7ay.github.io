@@ -18,7 +18,6 @@ Venir à 7AY, c'est expérimenter un nouveau mode de travail parfaitement adapt�
 
 7AY se veut aussi être un __espace d'expression artistique et culturel__ en affectant ses murs aux artistes qui veulent bien y présenter leurs oeuvres en exposition, performance, projection ou autres modes d'expression. 
               
-
 # Le coliving
 
 __7AY Coliving__ est un service proposé par 7AY pour permettre aux entrepreneurs nomades de bénéficier de logements entièrement meublés, équipés, situés au centre-ville, et connectés au coworking pour travailler en toute liberté et confort. De nombreux services sont proposés: expériences sportives, découvertes de la ville de Rabat et les autres régions du Maroc, programmation d'évènements professionnels, culturels et artistiques, en toute immersion...
