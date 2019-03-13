@@ -1,4 +1,4 @@
-# The workspace,open space coworking and private offices
+# The workspace: open space coworking and private offices
 
 Spacious and comfortable, this former warehouse has been completely restored, while keeping a nice industrial appearance: very large volumes, lots of daylight, customized offices and in-house designed and manufactured furniture.
 
