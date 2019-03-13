@@ -1,3 +1,13 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-136171239-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-136171239-1');
+</script>
+
 # Le coworking
 
 __7AY Coworking__ est un espace de bureaux partagés situé en plein cœur de la zone industrielle de Takadoum à Rabat à 5min de l'avenue Mohammed VI.
