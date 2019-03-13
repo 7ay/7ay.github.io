@@ -9,15 +9,15 @@ COORDONNEES GPS: 33°59'30.6"N 6°48'15.8"W (33.991836 - 6.804382)<br />
 INDICATIONS GPS à la marocaine:
 
 -Par la rocade de Rabat:
-En venant de Casablanca, prendre la rocade en direction de Fes, tourner à gauche au croisement qui indique "Zone Industrielle. Youssoufia" (c'est au niveau d'un feu rouge sur la rocade).
+En venant de Casablanca, prendre la rocade en direction de Fes, tourner à gauche au croisement qui indique "Zone Industrielle. Youssoufia"
 Ensuite continuer tout droit sur la route qui remonte (route Tariq el Oulja") jusqu'à la prochaine rue à droite (tourner au niveau d'Atlantic Confection). Et ensuite, c'est encore la 1ère à droite. C'est là, au n°15-16!
 
 -Par la route des Zaers (Mohammed VI):
-Sur la rue qui passe devant Carrefour Market/Label Vie (rue Raïs Cherkaoui), continuer tout droit jusqu'à dépasser le croisement où se situe le stade du FUS sur l'avenue Hay Nahda. Continuer tout droit sur cette rue, dépasser la grande mosquée tout au fond de l'avenue. Ensuite prendre la pente qui descend jusqu'au bout. Vous arrivez à un rond point où se situe le centre de visite technique de voitures Salama. Passer devant Salama et continuer tout droit jusqu'à un autre croisement. Tournez à droite, puis tout de suite à gauche au niveau d'Atlantic Confection. Ensuite, c'est la 1ère à droite. C'est là, au n°15-16!
+Sur la rue qui passe devant Carrefour Market/Label Vie (rue Raïs Cherkaoui), continuer tout droit jusqu'à dépasser le croisement où se situe le stade du FUS sur l'avenue Hay Nahda. Continuer tout droit sur cette rue, dépasser la grande mosquée tout au fond de l'avenue. Ensuite prendre la pente qui descend jusqu'au bout. Vous arrivez à un rond point où se situe le centre de visite technique de voitures Salama. Passer devant Salama Visite Technique et continuer tout droit jusqu'à un autre croisement. Tournez à droite, puis tout de suite à gauche au niveau d'Atlantic Confection. Ensuite, c'est la 1ère à droite. C'est là, au n°15-16!
 
 ### Contactez-nous
 
-LES VISITES SONT SUR RENDEZ-VOUS. (212) 537-65-06-31 /(212) 661-47-00-14 / (212) 611-40 54 11
+LES VISITES SONT SUR RENDEZ-VOUS. (212) 537-65-06-31 /(212) 661-47-00-14
 
 [hi@7ay.ma](mailto:hi@7ay.ma)
 
@@ -27,8 +27,8 @@ LES VISITES SONT SUR RENDEZ-VOUS. (212) 537-65-06-31 /(212) 661-47-00-14 / (212)
 
 Horaire général | 
 --------------- | -------------
-Du lundi au vendredi | 24h/24
-Le samedi 9h à 21h | Fermé le dimanche.
+Du lundi au vendredi | 8h à 20h
+Le samedi 9h à 20h | Fermé le dimanche.
 Fermé les jours fériés officiels, sauf pour les événements spéciaux
 
 Horaire de l'admin | 
