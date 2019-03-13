@@ -1,6 +1,6 @@
-# The workspace
+# The workspace,open space coworking and private offices
 
-Spacious and comfortable, this former warehouse of 780 m2 has been completely restored, while keeping a nice industrial appearance: very large volumes, lots of daylight, customized offices and in-house designed and manufactured furniture.
+Spacious and comfortable, this former warehouse has been completely restored, while keeping a nice industrial appearance: very large volumes, lots of daylight, customized offices and in-house designed and manufactured furniture.
 
 {% include space_images.html %}
 
